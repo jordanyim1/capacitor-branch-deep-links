@@ -2,7 +2,8 @@ package co.boundstate;
 
 import android.content.Intent;
 import android.net.Uri;
-import android.support.annotation.Nullable;
+
+import androidx.annotation.Nullable;
 
 import com.getcapacitor.JSObject;
 import com.getcapacitor.NativePlugin;
